@@ -5,7 +5,7 @@ Contributors: 		angelvilches
 Tags: 			restrict content pro, restric pages, restrict posts, restrict access, registration form
 Requires at least: 	5.0
 Tested up to: 		5.8.2
-Stable tag: 		1.0.1
+Stable tag: 		1.0.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
