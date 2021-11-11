@@ -3,7 +3,7 @@
 Plugin Name: Email Confirmation for Restrict Content Pro
 Plugin URI: https://github.com/angelvilches/emailconfirmation-rcp
 Description: This plugin allow you to add a confirmation email field for Restrict Content Pro register form and use the email as username.
-Version: 1.0.1
+Version: 1.0.2
 Author: Ángel Vilches
 Author URI: https://www.angelvilches.com
 License: GPLv2 or later
